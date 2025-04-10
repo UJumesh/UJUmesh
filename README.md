@@ -1,50 +1,46 @@
-# Hi 👋, I'm UJ Umesh
+<h1 align="center">Hi 👋, I'm [Umesh Jatav]</h1>
+<h3 align="center">A passionate Tech Enthusiast and Developer</h3>
 
-### A passionate Computer Science Student and Developer 🚀
-
-- 🔭 I’m currently learning **Data Structures and Algorithms (DSA)**
-- 🌱 I’m exploring **Web Development** and **Machine Learning**
-- 👯 I’m looking to collaborate on exciting **open-source projects**
-- 💬 Ask me about **C++, DSA, Web Development**
-- 📫 How to reach me: [LinkedIn Profile Link], [Instagram Profile Link]
-- ⚡ Fun fact: I love **coding while listening to music** 🎧
+<div align="center">
+  <img src="https://link-to-your-image.png" alt="Coding" width="400"/>
+</div>
 
 ---
 
-## 🛠️ Skills Learning
-- **Programming Languages**: C++, Python, JavaScript
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: C++ (Server Side Development)
-- **Tools**: Git, GitHub, VS Code
+### 👨‍💻 About Me :
+- 🔭 I’m currently working on **Open Source Projects**
+- 🌱 I’m currently learning **Full Stack Development and Data Structures**
+- 👯 I’m looking to collaborate on **Open Source Contributions**
+- 💬 Ask me about **Python, C++, Web Development**
+- 📫 How to reach me **your-email@example.com**
 
 ---
 
-## 🔧 Tools I Use
-- Visual Studio Code
-- Git & GitHub
-- Figma
-- Canva
+### 🛠️ Languages and Tools:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</div>
 
 ---
 
-## 📫 Connect with me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/अपना-username/)
-- 📸 [Instagram](https://www.instagram.com/अपना-username/)
-- 🐱 [GitHub](https://github.com/अपना-username/)
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=अपना-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🚀 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-instagram-id)
 
 ---
-
-## 🎯 Fun GIF
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
-</p>
-
----
-
