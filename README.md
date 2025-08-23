@@ -1,126 +1,162 @@
-<!-- Hero -->
-<h1 align="center">Hi 👋, I'm Umesh Jatav</h1>
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=800&center=true&vCenter=true&width=750&lines=Tech+Enthusiast+%7C+Full-Stack+Learner+%7C+Open+Source+Contributor;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+useful+things+one+commit+at+a+time">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=800&center=true&vCenter=true&width=750&lines=Tech+Enthusiast+%7C+Full-Stack+Learner+%7C+Open+Source+Contributor;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+useful+things+one+commit+at+a+time" alt="Typing SVG">
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills & Learning Section</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="520"/>
-</p>
+    h2 {
+      margin: 20px 0;
+      font-size: 28px;
+      color: #333;
+    }
 
-<p align="center">
-  <a href="https://github.com/Umesh-Jatav?tab=followers">
-    <img src="https://img.shields.io/github/followers/Umesh-Jatav?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Umesh-Jatav&style=for-the-badge&label=Profile+Views">
-  <a href="mailto:umesh@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/umesh-jatav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://instagram.com/umeshjatav">
-    <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      margin: 30px auto;
+      max-width: 900px;
+    }
 
----
+    .skill {
+      width: 180px;
+      text-align: center;
+    }
 
-### 👨‍💻 About Me
-- 🔭 Working on **Open Source Projects** and **mini SaaS experiments**
-- 🌱 Learning **Full-Stack Development** & **Data Structures**
-- 💬 Ask me about **Python, C++, and Web Dev**
-- 🎯 Goal: Ship something useful every week
-- 📫 Reach me: **umesh@example.com**
+    .skill canvas {
+      width: 150px !important;
+      height: 150px !important;
+    }
 
----
+    .skill-label {
+      margin-top: 10px;
+      font-size: 20px;
+      font-weight: bold;
+      color: #222;
+    }
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
-</p>
+    .learning-section {
+      margin: 50px auto;
+      max-width: 600px;
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
 
----
+    .learning-section h2 {
+      font-size: 26px;
+      margin-bottom: 20px;
+      color: #444;
+    }
 
-### 📊 Learning Progress
+    .learning-section canvas {
+      width: 100% !important;
+      height: 400px !important;
+    }
+  </style>
+</head>
+<body>
+  <h2>My Skills</h2>
 
-<p align="center">
+  <!-- Skills Circles -->
+  <div class="skills-container">
+    <div class="skill">
+      <canvas id="skill-html"></canvas>
+      <div class="skill-label">HTML</div>
+    </div>
+    <div class="skill">
+      <canvas id="skill-css"></canvas>
+      <div class="skill-label">CSS</div>
+    </div>
+    <div class="skill">
+      <canvas id="skill-js"></canvas>
+      <div class="skill-label">JavaScript</div>
+    </div>
+    <div class="skill">
+      <canvas id="skill-react"></canvas>
+      <div class="skill-label">React</div>
+    </div>
+  </div>
 
-<!-- Python -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[35,65],backgroundColor:['#3776AB','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🐍'}}}
-}" width="150" />
+  <!-- Learning Section -->
+  <div class="learning-section">
+    <h2>📚 Learning Progress</h2>
+    <canvas id="learningChart"></canvas>
+  </div>
 
-<!-- C++ -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[25,75],backgroundColor:['#00599C','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'💠'}}}
-}" width="150" />
+  <script>
+    // Skills Progress Circles
+    function createCircleChart(canvasId, value, color) {
+      new Chart(document.getElementById(canvasId), {
+        type: 'doughnut',
+        data: {
+          datasets: [{
+            data: [value, 100 - value],
+            backgroundColor: [color, "#eee"],
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          cutout: "75%",
+          plugins: {
+            legend: { display: false },
+            tooltip: { enabled: false },
+            title: {
+              display: true,
+              text: value + "%",
+              position: "center",
+              color: "#333",
+              font: {
+                size: 22,
+                weight: "bold"
+              }
+            }
+          }
+        }
+      });
+    }
 
-<!-- JavaScript -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[20,80],backgroundColor:['#F7DF1E','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🟨'}}}
-}" width="150" />
+    // Create skills circles
+    createCircleChart("skill-html", 90, "#E34F26");   // HTML
+    createCircleChart("skill-css", 85, "#2965F1");    // CSS
+    createCircleChart("skill-js", 75, "#F7DF1E");     // JavaScript
+    createCircleChart("skill-react", 65, "#61DBFB");  // React
 
-<!-- Java -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[10,90],backgroundColor:['#EA2D2E','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'☕'}}}
-}" width="150" />
-
-<!-- C -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[5,95],backgroundColor:['#A8B9CC','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🔵'}}}
-}" width="150" />
-
-<!-- HTML/CSS -->
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{datasets:[{data:[5,95],backgroundColor:['#E44D26','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🧡'}}}
-}" width="150" />
-
-</p>
-
----
-
-<p align="center">
-  <b>Legend:</b> 🐍 Python 35% • 💠 C++ 25% • 🟨 JavaScript 20% • ☕ Java 10% • 🔵 C 5% • 🧡 HTML/CSS 5%
-</p>
-
----
-
-### 🧩 Featured Projects
-- 🚀 **Project One** – Short description | <a href="https://github.com/Umesh-Jatav/project-one">Repo</a> • <a href="#">Demo</a>  
-- 🧠 **Project Two** – Short description | <a href="https://github.com/Umesh-Jatav/project-two">Repo</a> • <a href="#">Demo</a>  
-- 🛠 **Project Three** – Short description | <a href="https://github.com/Umesh-Jatav/project-three">Repo</a> • <a href="#">Demo</a>  
-
----
-
-### 🔥 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umesh-Jatav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Jatav&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Jatav&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/umesh-jatav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:umesh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/umeshjatav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+    // Learning Section Chart (Bar chart)
+    const ctx = document.getElementById("learningChart").getContext("2d");
+    new Chart(ctx, {
+      type: "bar",
+      data: {
+        labels: ["HTML", "CSS", "JavaScript", "React"],
+        datasets: [{
+          label: "Learning Progress (%)",
+          data: [90, 85, 75, 65],
+          backgroundColor: ["#E34F26", "#2965F1", "#F7DF1E", "#61DBFB"]
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false }
+        },
+        scales: {
+          y: { beginAtZero: true, max: 100 }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
