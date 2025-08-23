@@ -44,46 +44,53 @@
 
 ---
 
-### 📈 Learning Progress (Single Circle % Chart)
+### 📊 Learning Progress (Donut Chart)
 <p align="center">
 
-<!-- Donut chart (single circle with segments). Edit values in stroke-dasharray to change percentages. Total = 100 -->
-<!-- Legend:
-Python 35% | C++ 25% | JavaScript 20% | Java 10% | C 5% | HTML/CSS 5%
-Colors chosen for clarity on GitHub's light/dark themes.
--->
-<svg width="280" height="280" viewBox="0 0 42 42" role="img" aria-label="Learning percentage donut chart">
+<svg width="250" height="250" viewBox="0 0 42 42" role="img" aria-label="Learning percentage donut chart">
   <title>Learning percentage donut chart</title>
+  
   <!-- Background ring -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#2f3542" stroke-opacity="0.15" stroke-width="4"></circle>
+  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#d3d3d3" stroke-width="4" stroke-opacity="0.2"></circle>
 
   <!-- Python 35% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#3776AB" stroke-width="4"
-          stroke-dasharray="35 65" stroke-dashoffset="25"></circle>
+          stroke-dasharray="35 65" stroke-dashoffset="25">
+    <title>Python 35%</title>
+  </circle>
 
   <!-- C++ 25% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#00599C" stroke-width="4"
-          stroke-dasharray="25 75" stroke-dashoffset="(25 - 35)"></circle>
+          stroke-dasharray="25 75" stroke-dashoffset="-10">
+    <title>C++ 25%</title>
+  </circle>
 
   <!-- JavaScript 20% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#F7DF1E" stroke-width="4"
-          stroke-dasharray="20 80" stroke-dashoffset="(25 - 35 - 25)"></circle>
+          stroke-dasharray="20 80" stroke-dashoffset="-35">
+    <title>JavaScript 20%</title>
+  </circle>
 
   <!-- Java 10% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#EA2D2E" stroke-width="4"
-          stroke-dasharray="10 90" stroke-dashoffset="(25 - 35 - 25 - 20)"></circle>
+          stroke-dasharray="10 90" stroke-dashoffset="-55">
+    <title>Java 10%</title>
+  </circle>
 
   <!-- C 5% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#A8B9CC" stroke-width="4"
-          stroke-dasharray="5 95" stroke-dashoffset="(25 - 35 - 25 - 20 - 10)"></circle>
+          stroke-dasharray="5 95" stroke-dashoffset="-65">
+    <title>C 5%</title>
+  </circle>
 
   <!-- HTML/CSS 5% -->
   <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#E44D26" stroke-width="4"
-          stroke-dasharray="5 95" stroke-dashoffset="(25 - 35 - 25 - 20 - 10 - 5)"></circle>
+          stroke-dasharray="5 95" stroke-dashoffset="-70">
+    <title>HTML/CSS 5%</title>
+  </circle>
 
   <!-- Center label -->
-  <circle cx="21" cy="21" r="11" fill="currentColor" opacity="0.06"></circle>
-  <text x="21" y="21" text-anchor="middle" dominant-baseline="central" font-size="5.2" fill="currentColor">
+  <text x="21" y="21" text-anchor="middle" dominant-baseline="central" font-size="4.5" fill="#2f3542">
     Learning
   </text>
 </svg>
@@ -93,8 +100,6 @@ Colors chosen for clarity on GitHub's light/dark themes.
 <p align="center">
   <b>Legend:</b> 🐍 Python 35% • 💠 C++ 25% • 🟨 JavaScript 20% • ☕ Java 10% • 🔵 C 5% • 🧡 HTML/CSS 5%
 </p>
-
-> Tip: To adjust the chart, change the **stroke-dasharray** values (first number is the % segment). Keep their sum = 100 and update the offsets to stack segments (I pre-stacked them in order).
 
 ---
 
@@ -122,5 +127,3 @@ Colors chosen for clarity on GitHub's light/dark themes.
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/your-instagram-id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-
----
