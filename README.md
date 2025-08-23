@@ -44,44 +44,55 @@
 
 ---
 
----
-
----
-
 ### 📊 Learning Progress
 
 <p align="center">
-  <!-- Python -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-1.png" width="130" />
-  
-  <!-- C++ -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-2.png" width="130" />
-  
-  <!-- JavaScript -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-3.png" width="130" />
-  
-  <!-- Java -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-4.png" width="130" />
-  
-  <!-- C -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-5.png" width="130" />
-  
-  <!-- HTML/CSS -->
-  <img src="https://quickchart.io/chart/render/sf-27a2a6b1-6.png" width="130" />
+
+<!-- Python -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[35,65],backgroundColor:['#3776AB','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🐍'}}}
+}" width="150" />
+
+<!-- C++ -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[25,75],backgroundColor:['#00599C','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'💠'}}}
+}" width="150" />
+
+<!-- JavaScript -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[20,80],backgroundColor:['#F7DF1E','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🟨'}}}
+}" width="150" />
+
+<!-- Java -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[10,90],backgroundColor:['#EA2D2E','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'☕'}}}
+}" width="150" />
+
+<!-- C -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[5,95],backgroundColor:['#A8B9CC','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🔵'}}}
+}" width="150" />
+
+<!-- HTML/CSS -->
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{datasets:[{data:[5,95],backgroundColor:['#E44D26','#E0E0E0']}]},
+  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🧡'}}}
+}" width="150" />
+
 </p>
 
 ---
-
-<p align="center">
-  <b>Legend:</b> 🐍 Python 35% • 💠 C++ 25% • 🟨 JavaScript 20% • ☕ Java 10% • 🔵 C 5% • 🧡 HTML/CSS 5%
-</p>
-
----
-
-
----
-
-
 
 <p align="center">
   <b>Legend:</b> 🐍 Python 35% • 💠 C++ 25% • 🟨 JavaScript 20% • ☕ Java 10% • 🔵 C 5% • 🧡 HTML/CSS 5%
