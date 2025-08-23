@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,react,nodejs,mongodb,git,github,vscode&perline=6" />
 </p>
