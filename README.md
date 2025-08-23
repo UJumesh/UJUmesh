@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github">
+  <a href="https://github.com/Umesh-Jatav?tab=followers">
+    <img src="https://img.shields.io/github/followers/Umesh-Jatav?style=for-the-badge&logo=github">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=Profile+Views">
-  <a href="mailto:your-email@example.com">
+  <img src="https://komarev.com/ghpvc/?username=Umesh-Jatav&style=for-the-badge&label=Profile+Views">
+  <a href="mailto:umesh@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/umesh-jatav/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://instagram.com/your-instagram-id">
+  <a href="https://instagram.com/umeshjatav">
     <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
@@ -33,7 +33,7 @@
 - 🌱 Learning **Full-Stack Development** & **Data Structures**
 - 💬 Ask me about **Python, C++, and Web Dev**
 - 🎯 Goal: Ship something useful every week
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **umesh@example.com**
 
 ---
 
@@ -44,57 +44,9 @@
 
 ---
 
-### 📊 Learning Progress (Donut Chart)
+### 📊 Learning Progress
 <p align="center">
-
-<svg width="250" height="250" viewBox="0 0 42 42" role="img" aria-label="Learning percentage donut chart">
-  <title>Learning percentage donut chart</title>
-  
-  <!-- Background ring -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#d3d3d3" stroke-width="4" stroke-opacity="0.2"></circle>
-
-  <!-- Python 35% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#3776AB" stroke-width="4"
-          stroke-dasharray="35 65" stroke-dashoffset="25">
-    <title>Python 35%</title>
-  </circle>
-
-  <!-- C++ 25% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#00599C" stroke-width="4"
-          stroke-dasharray="25 75" stroke-dashoffset="-10">
-    <title>C++ 25%</title>
-  </circle>
-
-  <!-- JavaScript 20% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#F7DF1E" stroke-width="4"
-          stroke-dasharray="20 80" stroke-dashoffset="-35">
-    <title>JavaScript 20%</title>
-  </circle>
-
-  <!-- Java 10% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#EA2D2E" stroke-width="4"
-          stroke-dasharray="10 90" stroke-dashoffset="-55">
-    <title>Java 10%</title>
-  </circle>
-
-  <!-- C 5% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#A8B9CC" stroke-width="4"
-          stroke-dasharray="5 95" stroke-dashoffset="-65">
-    <title>C 5%</title>
-  </circle>
-
-  <!-- HTML/CSS 5% -->
-  <circle cx="21" cy="21" r="15.9155" fill="none" stroke="#E44D26" stroke-width="4"
-          stroke-dasharray="5 95" stroke-dashoffset="-70">
-    <title>HTML/CSS 5%</title>
-  </circle>
-
-  <!-- Center label -->
-  <text x="21" y="21" text-anchor="middle" dominant-baseline="central" font-size="4.5" fill="#2f3542">
-    Learning
-  </text>
-</svg>
-
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%2035%25%22%2C%22C%2B%2B%2025%25%22%2C%22JavaScript%2020%25%22%2C%22Java%2010%25%22%2C%22C%205%25%22%2C%22HTML%2FCSS%205%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C25%2C20%2C10%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%2300599C%22%2C%22%23F7DF1E%22%2C%22%23EA2D2E%22%2C%22%23A8B9CC%22%2C%22%23E44D26%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D" width="400"/>
 </p>
 
 <p align="center">
@@ -104,26 +56,26 @@
 ---
 
 ### 🧩 Featured Projects
-- 🚀 **Project One** – Short description | <a href="https://github.com/YOUR_GITHUB_USERNAME/project-one">Repo</a> • <a href="#">Demo</a>  
-- 🧠 **Project Two** – Short description | <a href="https://github.com/YOUR_GITHUB_USERNAME/project-two">Repo</a> • <a href="#">Demo</a>  
-- 🛠 **Project Three** – Short description | <a href="https://github.com/YOUR_GITHUB_USERNAME/project-three">Repo</a> • <a href="#">Demo</a>  
+- 🚀 **Project One** – Short description | <a href="https://github.com/Umesh-Jatav/project-one">Repo</a> • <a href="#">Demo</a>  
+- 🧠 **Project Two** – Short description | <a href="https://github.com/Umesh-Jatav/project-two">Repo</a> • <a href="#">Demo</a>  
+- 🛠 **Project Three** – Short description | <a href="https://github.com/Umesh-Jatav/project-three">Repo</a> • <a href="#">Demo</a>  
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umesh-Jatav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Jatav&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-Jatav&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/your-instagram-id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/umesh-jatav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:umesh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/umeshjatav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
