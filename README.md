@@ -44,10 +44,33 @@
 
 ---
 
+---
+
 ### 📊 Learning Progress
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%2035%25%22%2C%22C%2B%2B%2025%25%22%2C%22JavaScript%2020%25%22%2C%22Java%2010%25%22%2C%22C%205%25%22%2C%22HTML%2FCSS%205%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C25%2C20%2C10%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%2300599C%22%2C%22%23F7DF1E%22%2C%22%23EA2D2E%22%2C%22%23A8B9CC%22%2C%22%23E44D26%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D" width="400"/>
+  <!-- Python -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B35%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22🐍%22%7D%7D%7D" width="130" />
+  
+  <!-- C++ -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B25%5D%2C%22backgroundColor%22%3A%5B%22%2300599C%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22💠%22%7D%7D%7D" width="130" />
+  
+  <!-- JavaScript -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B20%5D%2C%22backgroundColor%22%3A%5B%22%23F7DF1E%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22🟨%22%7D%7D%7D" width="130" />
+  
+  <!-- Java -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B10%5D%2C%22backgroundColor%22%3A%5B%22%23EA2D2E%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22☕%22%7D%7D%7D" width="130" />
+  
+  <!-- C -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B5%5D%2C%22backgroundColor%22%3A%5B%22%23A8B9CC%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22🔵%22%7D%7D%7D" width="130" />
+  
+  <!-- HTML/CSS -->
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B5%5D%2C%22backgroundColor%22%3A%5B%22%23E44D26%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22centerPercentage%22%3A90%2C%22centerArea%22%3A%7B%22text%22%3A%22🧡%22%7D%7D%7D" width="130" />
 </p>
+
+---
+
+
 
 <p align="center">
   <b>Legend:</b> 🐍 Python 35% • 💠 C++ 25% • 🟨 JavaScript 20% • ☕ Java 10% • 🔵 C 5% • 🧡 HTML/CSS 5%
