@@ -52,45 +52,52 @@
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[35,65],backgroundColor:['#3776AB','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🐍'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>🐍 Python
 
 <!-- C++ -->
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[25,75],backgroundColor:['#00599C','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'💠'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>💠 C++
 
 <!-- JavaScript -->
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[20,80],backgroundColor:['#F7DF1E','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🟨'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>🟨 JavaScript
 
 <!-- Java -->
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[10,90],backgroundColor:['#EA2D2E','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'☕'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>☕ Java
 
 <!-- C -->
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[5,95],backgroundColor:['#A8B9CC','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🔵'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>🔵 C
 
 <!-- HTML/CSS -->
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
   data:{datasets:[{data:[5,95],backgroundColor:['#E44D26','#E0E0E0']}]},
-  options:{cutout:'75%',plugins:{legend:{display:false},center:{text:'🧡'}}}
+  options:{cutout:'75%',plugins:{legend:{display:false}}}
 }" width="150" />
+<br>🧡 HTML/CSS
 
 </p>
+
 
 ---
 
