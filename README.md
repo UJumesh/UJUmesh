@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- ██████████████████████ ANIMATED HEADER ██████████████████████ -->
-
+<!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=Umesh%20Jatav&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&rotate=-2&desc=Full-Stack%20Developer%20%7C%20OSS%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=80&descSize=16&descColor=c0e0ff" width="100%" />
 
-<!-- TYPING SVG -->
+<!-- TYPING -->
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Developer+in+the+Making;🐍+Python+%26+C%2B%2B+Enthusiast;🌐+Building+Scalable+Web+Apps;🧠+DSA+%26+System+Design+Grinder;🔓+Open+Source+Contributor;💡+Turning+Ideas+into+Products" alt="Typing SVG" />
 </a>
@@ -24,8 +23,6 @@
 
 ---
 
-<!-- ██████████████████████ ABOUT ME ██████████████████████ -->
-
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif" />
@@ -41,13 +38,11 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 🧠 &nbsp;Building in public — shipping something useful **every week**  
 💬 &nbsp;Ask me anything about **Python, C++, React or Web Dev**  
 ⚡ &nbsp;Fun fact: I debug at 2 AM and call it *"flow state"*  
-📫 &nbsp;Reach me at **umesh@example.com**
+📫 &nbsp;Reach me at **umesh@example.com**  
 
 <br clear="right"/>
 
 ---
-
-<!-- ██████████████████████ TECH STACK ██████████████████████ -->
 
 ## 🧰 Tech Stack
 
@@ -78,8 +73,6 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 </div>
 
 ---
-
-<!-- ██████████████████████ LEARNING PROGRESS ██████████████████████ -->
 
 ## 📊 Learning Progress
 
@@ -118,8 +111,6 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
-<!-- ██████████████████████ PROJECTS ██████████████████████ -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -128,7 +119,7 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Project Alpha</h3>
-      <p>Modern SaaS dashboard with real-time analytics, role-based access control, auth and billing integration.</p>
+      <p>Modern SaaS dashboard with real-time analytics, role-based access control, auth and billing.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -138,7 +129,7 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Algo-Visualizer</h3>
-      <p>Real-time visualization of 30+ C++ algorithms and data structures with interactive step-by-step breakdowns.</p>
+      <p>Real-time visualization of 30+ C++ algorithms and data structures with step-by-step breakdowns.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -160,7 +151,7 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
     </td>
     <td width="50%" valign="top">
       <h3>🌐 DevConnect</h3>
-      <p>Open-source developer networking platform with smart project matching and skill-based endorsements.</p>
+      <p>Open-source developer networking platform with smart project matching and skill endorsements.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -175,14 +166,12 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
-<!-- ██████████████████████ GITHUB STATS ██████████████████████ -->
-
 ## 🔥 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umesh-Jatav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Jatav&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Umesh-Jatav&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
@@ -192,8 +181,6 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
-<!-- ██████████████████████ TROPHIES ██████████████████████ -->
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -202,108 +189,13 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
-<!-- ██████████████████████ 3D CONTRIBUTION GRAPH ██████████████████████ -->
-
-## 🌐 3D Contribution Graph
+## 📈 Contribution Calendar
 
 <div align="center">
-
-> ⚙️ **Setup required once** — Create `.github/workflows/3d-contrib.yml` in your profile repo with the code below, then the 3D graph auto-generates every day!
-
-<details>
-<summary><b>📋 Click to copy the GitHub Action</b></summary>
-
-```yaml
-name: GitHub 3D Contributions
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Umesh-Jatav
-      - name: Commit & Push
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "Generate 3D contribution graph"
-          git push
-```
-
-</details>
-
-<img src="https://raw.githubusercontent.com/Umesh-Jatav/Umesh-Jatav/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-
+  <img src="https://ghchart.ssh.surf/58a6ff/Umesh-Jatav" alt="Umesh's GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
-
-<!-- ██████████████████████ CONTRIBUTION GRAPH ██████████████████████ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-Jatav&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-<!-- ██████████████████████ SNAKE ██████████████████████ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚙️ **Setup required once** — Create `.github/workflows/snake.yml` in your profile repo:
-
-<details>
-<summary><b>📋 Click to copy the Snake Action</b></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Umesh-Jatav
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-  <img src="https://raw.githubusercontent.com/Umesh-Jatav/Umesh-Jatav/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
-<!-- ██████████████████████ CONNECT ██████████████████████ -->
 
 ## 🤝 Let's Connect & Build
 
