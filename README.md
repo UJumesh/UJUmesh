@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:7c3aed&height=280&section=header&text=UMESH%20JATAV&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20OSS%20Builder%20%7C%20Problem%20Slayer&descAlignY=65&descSize=20&descColor=a0f4ff" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=⚡+Full-Stack+Dev+%7C+React+%2B+FastAPI+%2B+Node;🧠+DSA+%26+System+Design+Grinder;🐍+Python+Wizard+%7C+C%2B%2B+Sorcerer;🚀+Shipping+Code+at+the+Speed+of+Thought;🔓+Open+Source+Advocate+%26+Builder" alt="Typing SVG" />
-</a>
+
 
 <!-- SOCIAL BADGES -->
 <br/>
