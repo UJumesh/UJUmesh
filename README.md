@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%20There!%20I'm%20Umesh%20Jatav%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20in%20the%20Making%20%7C%20OSS%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&descColor=a0cfff" width="100%" />
+<!-- ██████████████████████ ANIMATED HEADER ██████████████████████ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=Umesh%20Jatav&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&rotate=-2&desc=Full-Stack%20Developer%20%7C%20OSS%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=80&descSize=16&descColor=c0e0ff" width="100%" />
 
+<!-- TYPING SVG -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer+in+the+Making;🐍+Python+%26+C%2B%2B+Enthusiast;🌐+Building+Scalable+Web+Apps;🧠+DSA+%26+System+Design+Grinder;🔓+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Developer+in+the+Making;🐍+Python+%26+C%2B%2B+Enthusiast;🌐+Building+Scalable+Web+Apps;🧠+DSA+%26+System+Design+Grinder;🔓+Open+Source+Contributor;💡+Turning+Ideas+into+Products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/Umesh-Jatav?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=238636)](https://github.com/Umesh-Jatav?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Umesh-Jatav&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2&labelColor=0d1117)](https://github.com/Umesh-Jatav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-jatav/)
@@ -22,9 +24,11 @@
 
 ---
 
+<!-- ██████████████████████ ABOUT ME ██████████████████████ -->
+
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif" />
 
 **Who am I?**
 
@@ -43,6 +47,8 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
+<!-- ██████████████████████ TECH STACK ██████████████████████ -->
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -51,13 +57,19 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&perline=6" />
 
+<br/>
+
 **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,figma&perline=6" />
 
+<br/>
+
 **⚙️ Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,postgres,redis&perline=8" />
+
+<br/>
 
 **🔧 Tools & DevOps**
 
@@ -67,11 +79,13 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
+<!-- ██████████████████████ LEARNING PROGRESS ██████████████████████ -->
+
 ## 📊 Learning Progress
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="12">
+<table border="0" cellspacing="0" cellpadding="14">
   <tr>
     <td align="center">
       <img src="https://quickchart.io/chart?bkg=transparent&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B75%2C25%5D%2CbackgroundColor%3A%5B%27%233776AB%27%2C%27%23ffffff18%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7Bcutout%3A%2772%25%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%7D%7D" width="110" height="110" />
@@ -103,6 +117,8 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 </div>
 
 ---
+
+<!-- ██████████████████████ PROJECTS ██████████████████████ -->
 
 ## 🚀 Featured Projects
 
@@ -159,6 +175,8 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
+<!-- ██████████████████████ GITHUB STATS ██████████████████████ -->
+
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -174,30 +192,118 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 
 ---
 
+<!-- ██████████████████████ TROPHIES ██████████████████████ -->
+
 ## 🏆 Trophies
 
 <div align="center">
-<!-- USE THIS INSTEAD (more reliable) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-Jatav&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umesh-Jatav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
 </div>
 
 ---
+
+<!-- ██████████████████████ 3D CONTRIBUTION GRAPH ██████████████████████ -->
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+> ⚙️ **Setup required once** — Create `.github/workflows/3d-contrib.yml` in your profile repo with the code below, then the 3D graph auto-generates every day!
+
+<details>
+<summary><b>📋 Click to copy the GitHub Action</b></summary>
+
+```yaml
+name: GitHub 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Umesh-Jatav
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Generate 3D contribution graph"
+          git push
+```
+
+</details>
+
+<img src="https://raw.githubusercontent.com/Umesh-Jatav/Umesh-Jatav/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ██████████████████████ CONTRIBUTION GRAPH ██████████████████████ -->
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-Jatav&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Umesh's%20Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-Jatav&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Devoured
+<!-- ██████████████████████ SNAKE ██████████████████████ -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
+
+> ⚙️ **Setup required once** — Create `.github/workflows/snake.yml` in your profile repo:
+
+<details>
+<summary><b>📋 Click to copy the Snake Action</b></summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Umesh-Jatav
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
   <img src="https://raw.githubusercontent.com/Umesh-Jatav/Umesh-Jatav/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
+
+<!-- ██████████████████████ CONNECT ██████████████████████ -->
 
 ## 🤝 Let's Connect & Build
 
@@ -221,4 +327,3 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%" />
-
