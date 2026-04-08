@@ -177,7 +177,8 @@ A passionate developer from India 🇮🇳 who loves turning ideas into reality 
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umesh-Jatav&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
+<!-- USE THIS INSTEAD (more reliable) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-Jatav&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
