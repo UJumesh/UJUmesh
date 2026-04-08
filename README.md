@@ -1,27 +1,23 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=Umesh%20Jatav&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&rotate=-2&desc=Full-Stack%20Developer%20%7C%20OSS%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=80&descSize=16&descColor=c0e0ff" width="100%" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:7c3aed&height=280&section=header&text=UMESH%20JATAV&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20OSS%20Builder%20%7C%20Problem%20Slayer&descAlignY=65&descSize=20&descColor=a0f4ff" width="100%" />
 
-<!-- TYPING -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Developer+in+the+Making;🐍+Python+%26+C%2B%2B+Enthusiast;🌐+Building+Scalable+Web+Apps;🧠+DSA+%26+System+Design+Grinder;🔓+Open+Source+Contributor;💡+Turning+Ideas+into+Products" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=⚡+Full-Stack+Dev+%7C+React+%2B+FastAPI+%2B+Node;🧠+DSA+%26+System+Design+Grinder;🐍+Python+Wizard+%7C+C%2B%2B+Sorcerer;🚀+Shipping+Code+at+the+Speed+of+Thought;🔓+Open+Source+Advocate+%26+Builder" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/Umesh-Jatav?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=238636)](https://github.com/Umesh-Jatav?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Umesh-Jatav&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2&labelColor=0d1117)](https://github.com/Umesh-Jatav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-jatav/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umesh@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umeshjatav)
-
-</div>
-
+<!-- SOCIAL BADGES -->
 <br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umesh_Jatav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-jatav/)
+[![Gmail](https://img.shields.io/badge/Gmail-umesh%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umesh@example.com)
+[![GitHub Followers](https://img.shields.io/github/followers/Umesh-Jatav?style=for-the-badge&logo=github&logoColor=white&color=161b22&labelColor=30363d)](https://github.com/Umesh-Jatav)
+[![Profile Views](https://komarev.com/ghpvc/?username=Umesh-Jatav&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Umesh-Jatav)
+[![Instagram](https://img.shields.io/badge/Instagram-@umeshjatav-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umeshjatav)
+
+</div>
 
 ## 👨‍💻 About Me
 
