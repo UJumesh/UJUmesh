@@ -6,6 +6,7 @@
 
 <div align="center">
 
+
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:7c3aed&height=280&section=header&text=UMESH%20JATAV&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20OSS%20Builder%20%7C%20Problem%20Slayer&descAlignY=65&descSize=20&descColor=a0f4ff" width="100%" />
 
